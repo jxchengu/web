@@ -80,23 +80,23 @@ def calculate_total_cost():
 
 # Display food items
 food("Chocolate Chip Cookie", "description", "food", "1.99")
-st.image("C:/Users/kai_k/OneDrive/Pictures/Tasty101ChocChipCookiesYTUPLOADFINAL.jpg")
+st.image("Tasty101ChocChipCookiesYTUPLOADFINAL.jpg")
 st.write("Ingredients: Brown sugar, Salt, Unsalted butter, Egg, Vanilla extract, All-purpose flour, Baking soda, milk or semi-sweet chocolate chunks, Dark chocolate chunks.")
 
 food("Maple Glazed Donut", "description", "food", "1.99")
-st.image("C:/Users/kai_k/Downloads/maple-icing-for-donuts-min.jpg")
+st.image("maple-icing-for-donuts-min.jpg")
 st.write("Ingredients: Whole Milk, Active Dry Yeast, Granulated Sugar, Eggs, Unsalted Butter, Vanilla Extract, Salt, Freshly Grated Nutmeg, Ground Cinnamon, Bread Flour, Powdered Sugar, Maple Syrup, Maple Extract.")
 
 food("Tiramisu", "description", "food", "3.99")
-st.image("C:/Users/kai_k/OneDrive/Pictures/best-tiramisu-recipe-1-of-1.jpg")
+st.image("best-tiramisu-recipe-1-of-1.jpg")
 st.write("Ingredients: Strong Brewed Coffee, Lady Finger Biscuits, Mascarpone Cheese, Whipped Cream, Sugar, Vanilla Extract, Cocoa, Chocolate.")
 
 food("Cinnamon Sugar Beavertail", "description", "food", "4.99")
-st.image("C:/Users/kai_k/Downloads/cinnamon-sugar-beaver-tails-4.jpg")
+st.image("cinnamon-sugar-beaver-tails-4.jpg")
 st.write("Ingredients: Water, Active Dry Yeast, White Sugar, Warm Milk, Salt, Vanilla Extract, Eggs, Canola Oil, All Purpose Flour, Ground Cinnamon.")
 
 # Display the logo
-st.logo("C:/Users/kai_k/OneDrive/Pictures/Screenshot 2025-03-01 145811.png")
+st.logo("Screenshot 2025-03-01 145811.png")
 
 # Calculate and display the total cost
 calculate_total_cost()
