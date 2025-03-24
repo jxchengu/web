@@ -26,9 +26,9 @@ if add_radio == "deliver":
 
 st.header("Welcome to the cafe boulangerie app!")
 st.write("Since it's you just signed up on our app, you can have a free coffee, a tiramisu and one pastry of your choice.")
-st.image("C:/Users/kai_k/OneDrive/Pictures/Screenshots/Screenshot 2025-03-21 200559.png")
+st.image("Screenshot 2025-03-21 200559.png")
 st.write("Below is your barcode for your free food!")
-st.image("C:/Users/kai_k/OneDrive/Pictures/linear.png")
+st.image("linear.png")
 
 st.markdown("""
             <style>
@@ -159,31 +159,31 @@ def calculate_total_cost():
     
 
 food("Chocolate Chip Cookie", "description", "food", "1.99")
-st.image("C:/Users/kai_k/OneDrive/Pictures/Tasty101ChocChipCookiesYTUPLOADFINAL.jpg")
+st.image("Tasty101ChocChipCookiesYTUPLOADFINAL.jpg")
 st.write("At Cafe Boulangerie, for just $1.99, you can enjoy a large chocolate chip cookie that is warm and soft on the outside while maintaing a golden crispy edge. The cookie is buttery, chocolatey, rich and one bite is heaven for your tastebuds.")
 st.caption("Ingredients: Brown sugar, Salt, Unsalted butter, Egg, Vanilla extract, All-purpose flour, Baking soda, milk or semi-sweet chocolate chunks, Dark chocolate chunks.")
 
 
 food("Maple Glazed Donut", "description", "food", "1.99")
-st.image("C:/Users/kai_k/Downloads/maple-icing-for-donuts-min.jpg")
+st.image("maple-icing-for-donuts-min.jpg")
 st.write("Like our chocolate chip cookie, our signature Maple Glazed Donuts also cost $1.99 which is the signature pastry perfect by Richard Zhan. The Donut is freshly fried each more with care and then it's dipped in a rich and delicate maple syrup. One bite of our donut and you will feel like you're in heaven.")
 st.caption("Ingredients: Whole Milk, Active Dry Yeast, Granulated Sugar, Eggs, Unsalted Butter, Vanilla Extract, Salt, Freshly Grated Nutmeg, Ground Cinnamon, Bread Flour, Powdered Sugar, Maple Syrup, Maple Extract. ")
 
 
 food("Tiramisu", "description", "food", "3.99")
-st.image("C:/Users/kai_k/OneDrive/Pictures/best-tiramisu-recipe-1-of-1.jpg")
+st.image("best-tiramisu-recipe-1-of-1.jpg")
 st.write("Often for birthdays and special ocassions, most customers come to our bakery to order our award winning no bake tiramisu which costs $3.99. Our tiramisu is a cake like dessert that is creamy, velvety, light, fluffy, smooth, airy that anyone would crave for.")
 st.caption("Ingredients: Strong Brewed Coffee, Lady Finger Biscuits, Mascarpone Cheese, Whipped Cream, Sugar, Vanilla Extract, Cocoa, Chocolate.")
 
 
 food("Cinnamon Sugar Beavertail", "description", "food", "3.99")
-st.image("C:/Users/kai_k/Downloads/cinnamon-sugar-beaver-tails-4.jpg")
+st.image("cinnamon-sugar-beaver-tails-4.jpg")
 st.write("One of the most popular items that cafe boulangerie offers is our signature $3.99 cinnamon sugar beavertails which is fried pastry dough covered with cinnamon and sugar. Our beavertails are fluffy and soft on inside while maintaing a cinnamony and sweet golden crispy skin. ")
 st.caption("Ingredients: Water, Active Dry Yeast, White Sugar, Warm Milk, Salt, Vanilla Extract, Eggs, Canola Oil, All Purpose Flour, Ground Cinnamon.")
 
 
 
-st.logo("C:/Users/kai_k/OneDrive/Pictures/Screenshot 2025-03-01 145811.png")
+st.logo("Screenshot 2025-03-01 145811.png")
 
 
 
